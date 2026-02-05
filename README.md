@@ -1,4 +1,4 @@
-# BloodVeil Client
+# Bloodveil V1.0
 
 Download the latest client here:
 https://github.com/DwightM95/BloodVeil_V1/releases/latest

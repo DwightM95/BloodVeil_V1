@@ -1,4 +1,4 @@
-ArkCane Client
+Bloodveil V1.0
 
 1) Install Java 11+ from https://adoptium.net/
 2) Run the client:
